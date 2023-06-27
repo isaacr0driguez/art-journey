@@ -1,2 +1,3 @@
 # art-journey
-AI nft generator
+
+My art journey : to do 
